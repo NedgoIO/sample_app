@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="febab640-49e6-4d85-a2ba-e4bdb19191a7" name="Default" comment="Change Home Page">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/loudror.png" afterPath="$PROJECT_DIR$/app/assets/images/loudror.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
     </list>
     <ignored path="sample_app.iws" />
@@ -14,7 +13,7 @@
     <file path="/README.rdoc" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1360995116285" ignored="false" />
     <file path="/hello.html" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1360996468243" ignored="false" />
     <file path="/static_pages_spec.rb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361176393342" ignored="false" />
-    <file path="/home.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361458162304" ignored="false" />
+    <file path="/home.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361459727312" ignored="false" />
     <file path="/help.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361078940497" ignored="false" />
     <file path="/routes.rb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361263757680" ignored="false" />
     <file path="/static_pages_controller.rb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361081714592" ignored="false" />
@@ -30,8 +29,8 @@
     <file path="/index.html" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361136836229" ignored="false" />
     <file path="/example_user.rb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361147679333" ignored="false" />
     <file path="/custom.css.scss" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361442851907" ignored="false" />
-    <file path="/_footer.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361159459391" ignored="false" />
-    <file path="/_header.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361458238886" ignored="false" />
+    <file path="/_footer.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361459790473" ignored="false" />
+    <file path="/_header.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361459921859" ignored="false" />
     <file path="/utilities.rb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361176957302" ignored="false" />
     <file path="/user_pages_spec.rb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361442136200" ignored="false" />
     <file path="/new.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361442219180" ignored="false" />
@@ -46,7 +45,7 @@
     <file path="/users_helper.rb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361444841722" ignored="false" />
     <file path="/_error_messages.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361442918982" ignored="false" />
     <file path="/en.yml" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361443138499" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361458240604" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361459928569" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <file leaf-file-name="_header.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="32" selection-start="130" selection-end="130" vertical-scroll-proportion="0.05226481">
+            <state line="9" column="40" selection-start="402" selection-end="402" vertical-scroll-proportion="0.15679443">
               <folding />
             </state>
           </provider>
@@ -93,16 +92,16 @@
       <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="24" selection-start="377" selection-end="377" vertical-scroll-proportion="-6.25">
+            <state line="8" column="31" selection-start="333" selection-end="333" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_error_messages.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/shared/_error_messages.html.erb">
+      <file leaf-file-name="_footer.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="23" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
+            <state line="11" column="23" selection-start="277" selection-end="277" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
@@ -176,7 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/spec/factories.rb" />
         <option value="$PROJECT_DIR$/config/environments/test.rb" />
         <option value="$PROJECT_DIR$/app/views/users/show.html.erb" />
@@ -191,6 +189,7 @@
         <option value="$PROJECT_DIR$/app/helpers/users_helper.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
       </list>
     </option>
@@ -1158,13 +1157,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spec/factories.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="47" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="59" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
@@ -1249,13 +1241,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="24" selection-start="377" selection-end="377" vertical-scroll-proportion="-6.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="56" selection-start="669" selection-end="669" vertical-scroll-proportion="-16.25">
@@ -1263,9 +1248,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="31" selection-start="333" selection-end="333" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="23" selection-start="277" selection-end="277" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="32" selection-start="130" selection-end="130" vertical-scroll-proportion="0.05226481">
+        <state line="9" column="40" selection-start="402" selection-end="402" vertical-scroll-proportion="0.15679443">
           <folding />
         </state>
       </provider>
