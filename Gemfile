@@ -35,7 +35,7 @@ group :test do
   gem 'growl', '1.0.3'
   gem 'guard-spork', '0.3.2'
   gem 'spork', '0.9.0'
-  #gem 'activerecord-sqlite3-adapter'
+  gem 'factory_girl_rails'
 
 end
 
