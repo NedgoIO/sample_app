@@ -28,7 +28,11 @@ body{
     padding-top: 60px;
   }
 }
-
+@media(max-width: 480px) {
+  .hero-unit {
+    padding: 30px;
+  }
+}
 
 section{
   overflow: auto;
@@ -75,10 +79,10 @@ h1, h2, h3, h4, h5, h6 {
 
 @media(max-width: 480px) {
   h1 {
-    font-size: 1.0em !important;
+    font-size: 1.1em !important;
   }
   h2 {
-    font-size: 0.8em;
+    font-size: 0.9em;
   }
 }
 
