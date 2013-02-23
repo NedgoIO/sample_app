@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="febab640-49e6-4d85-a2ba-e4bdb19191a7" name="Default" comment="Change Home Page">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
     <file path="/example_user.rb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361147679333" ignored="false" />
     <file path="/custom.css.scss" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361442851907" ignored="false" />
     <file path="/_footer.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361462566651" ignored="false" />
-    <file path="/_header.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361459921859" ignored="false" />
+    <file path="/_header.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361595679654" ignored="false" />
     <file path="/utilities.rb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361176957302" ignored="false" />
     <file path="/user_pages_spec.rb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361442136200" ignored="false" />
     <file path="/new.html.erb" changelist="febab640-49e6-4d85-a2ba-e4bdb19191a7" time="1361442219180" ignored="false" />
@@ -67,10 +66,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_header.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="40" selection-start="402" selection-end="402" vertical-scroll-proportion="-5.625">
+            <state line="17" column="13" selection-start="722" selection-end="722" vertical-scroll-proportion="0.30429596">
               <folding />
             </state>
           </provider>
@@ -132,10 +131,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="custom.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="28" selection-start="303" selection-end="303" vertical-scroll-proportion="0.4350348">
+            <state line="25" column="28" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -192,12 +191,12 @@
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/helpers/users_helper.rb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/about.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/contact.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/help.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
       </list>
     </option>
   </component>
@@ -1346,13 +1345,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="40" selection-start="402" selection-end="402" vertical-scroll-proportion="-5.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="76" selection-start="341" selection-end="341" vertical-scroll-proportion="-5.0">
@@ -1362,7 +1354,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="28" selection-start="303" selection-end="303" vertical-scroll-proportion="0.4350348">
+        <state line="25" column="28" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="722" selection-end="722" vertical-scroll-proportion="0.30429596">
           <folding />
         </state>
       </provider>
