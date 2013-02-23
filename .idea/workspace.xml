@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="febab640-49e6-4d85-a2ba-e4bdb19191a7" name="Default" comment="Change Home Page">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,10 +66,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_header.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="32" selection-start="342" selection-end="342" vertical-scroll-proportion="0.13574661">
+            <state line="20" column="25" selection-start="761" selection-end="761" vertical-scroll-proportion="-12.5">
               <folding />
             </state>
           </provider>
@@ -132,10 +131,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="2" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0">
+            <state line="21" column="4" selection-start="287" selection-end="287" vertical-scroll-proportion="0.3469163">
               <folding />
             </state>
           </provider>
@@ -1379,16 +1378,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="2" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0">
+        <state line="20" column="25" selection-start="761" selection-end="761" vertical-scroll-proportion="-12.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="32" selection-start="342" selection-end="342" vertical-scroll-proportion="0.13574661">
+        <state line="21" column="4" selection-start="287" selection-end="287" vertical-scroll-proportion="0.3469163">
           <folding />
         </state>
       </provider>
