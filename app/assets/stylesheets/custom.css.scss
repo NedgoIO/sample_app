@@ -51,6 +51,28 @@ textarea {
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
 }
+
+
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 2.8em !important;
+  }
+  h2 {
+    font-size: 2.2em;
+  }
+}
+
+@media (max-width: 767px) {
+  h1 {
+    font-size: 2.2em !important;
+  }
+  h2 {
+    font-size: 1.7em;
+  }
+
+}
+
 @media(max-width: 480px) {
   h1 {
     font-size: 1.0em !important;
@@ -59,14 +81,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 0.8em;
   }
 }
-@media (min-width: 481px) {
-  h1 {
-    font-size: 2.8em !important;
-  }
-  h2 {
-    font-size: 2.2em;
-  }
-}
+
 h1 {
   letter-spacing: -2px;
   margin-bottom: 30px;
