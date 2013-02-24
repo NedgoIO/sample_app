@@ -15,6 +15,7 @@ def sign_in(user)
   cookies[:remember_token] = user.remember_token
 end
 
+
 def valid_signup
   fill_in "Name", with: "Example User"
   fill_in "Email", with: "example@user.org"
